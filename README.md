@@ -1,3 +1,3 @@
 # Hospital-Management-System
 
-This software is made using Java GUI.
+This s/w is made using Java GUI.
